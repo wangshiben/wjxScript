@@ -1,4 +1,4 @@
-# 问卷星自动回答问题
+# 问卷星刷问卷
 
 > 此代码需要运行环境: selenium库以及requests库  还有chromeDiver的设置
 
